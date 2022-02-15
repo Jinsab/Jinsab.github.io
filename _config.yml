@@ -23,10 +23,10 @@ timezone: Asia/Seoul
 
 title: Jinsab                          # the main title
 
-tagline: wow   # it will display as the sub-title
+tagline: 기록해서 기억하자   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  소소하게 하나하나에 정성 들이기
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://Jinsab.github.io'
@@ -80,10 +80,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://raw.githubusercontent.com/Jinsab/images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/commons/avater.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
